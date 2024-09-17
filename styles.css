@@ -13,7 +13,7 @@ body {
 .hero-section {
     position: relative;
     height: 100vh;
-    background-image: url('background.png'); /* Add your background image path */
+    background-image: url('background.png'); /* Background image path */
     background-size: cover;
     background-position: center;
     display: flex;
