@@ -13,7 +13,7 @@ body {
 .hero-section {
     position: relative;
     height: 100vh;
-    background-image: url('background-image.jpg'); /* background image URL */
+    background-image: url('https://github.com/bjeptum/bjeptum.github.io/blob/main/background-image.jpg'); /* background image URL */
     background-size: cover;
     background-position: center;
     display: flex;
